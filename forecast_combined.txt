@@ -1,0 +1,23 @@
+===================================
+   COMBINED ENERGY FORECAST – CODE A
+===================================
+
+NATURAL GAS
+-----------------------------------
+Run time (UTC): 2025-12-30 18:48:37 UTC
+Data date     : 2025-12-30
+
+Prob UP       : 49.76%
+Prob DOWN     : 50.24%
+Signal        : NO_TRADE
+
+OIL
+-----------------------------------
+Run time (UTC): 2025-12-30 18:48:38 UTC
+Data date     : 2025-12-30
+
+Prob UP       : 47.00%
+Prob DOWN     : 53.00%
+Signal        : NO_TRADE
+
+===================================
